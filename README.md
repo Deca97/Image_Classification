@@ -1,2 +1,2 @@
 # Image_Classification
-Deep learning model for image classification sing CNN.
+Deep learning model for image classification using CNN.
